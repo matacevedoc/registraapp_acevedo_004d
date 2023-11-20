@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "vivisol",
+      "password": "clave123",
+      "role": "Servicio",
+      "isactive": true
+    },
+    {
+      "id": 2,
+      "username": "matilini",
+      "password": "clave456",
+      "role": "Academico",
+      "isactive": true
+    },
+    {
+      "username": "matisoti1",
+      "password": "lol123",
+      "role": "Academico",
+      "isactive": true,
+      "id": 3
+    }
+  ]
+}
